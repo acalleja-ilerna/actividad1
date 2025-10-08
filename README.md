@@ -1,4 +1,4 @@
-# Despliegue
+# Despliegue de aplicaciones web
 
 Este repositorio contiene el código y los recursos de la asignatura de Despliegue.
 
